@@ -1,5 +1,6 @@
 # ClassicFizzBuzz
-FizzBuzz is a kid's word game turned into a common coding interview question 
+FizzBuzz is a kid's word game turned into a common coding interview question.
+<br>
 It involves creating code to count numbers while replacing some numbers with words.
 
 Details of FizzBuzz:
